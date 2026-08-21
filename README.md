@@ -1,4 +1,3 @@
-GitHub Profile README — S4vz4d
 S4vz4d
 <div align="center"> <img src="./assets/blueprint-header.svg" width="100%" alt="S4vz4d — AI Security Research"> <br>
 
