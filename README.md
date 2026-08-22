@@ -94,3 +94,13 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 
 > `2021.04 → 2022.05` **Westcon-Comstor** · Support Center Operator Trainee · Spain
 > - Contributed to a 20% reduction in open SOC tickets — incident resolution, network administration, vulnerability assessment
+
+<img src="assets/divider-certifications.svg" width="100%" alt="" />
+
+| Certification | Issuer | Year |
+|---|---|---|
+| AI Red Teamer | Hack The Box | 2026 |
+| Red Teaming Path | TryHackMe | 2025 |
+| Jr Penetration Tester | TryHackMe | 2025 |
+| NSE 3 Network Security | Fortinet | 2023 |
+| NSE 1–2 | Fortinet | 2022 |
