@@ -9,3 +9,9 @@
 ![Location](https://img.shields.io/badge/-Madrid%2C%20Spain%20%7C%20Remote-0A1128?style=flat-square&logo=googlemaps&logoColor=4FD1E8)
 
 </div>
+
+<img src="assets/divider-about.svg" width="100%" alt="" />
+
+Security engineer who builds offensive tooling and hardens enterprise systems — working both sides of the fence. Three years securing critical infrastructure for major Spanish corporations and government departments; since 2024, building AI red-team tooling and running adversarial testing against LLMs — prompt injection, agent and MCP security, penetration testing, SOC operations.
+
+Currently focused on leading offensive security against AI/ML systems while feeding findings back into detection and defense.
