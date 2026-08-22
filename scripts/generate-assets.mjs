@@ -56,6 +56,25 @@ function escapeXml(str) {
     .replace(/'/g, '&apos;');
 }
 
+function banner() {
+  const width = 1200;
+  const height = 300;
+  const midX = width / 2;
+
+  const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+  <rect width="${width}" height="${height}" fill="${PALETTE.bg}" />
+  ${gridBackground(width, height)}
+  ${cornerBrackets(width, height)}
+  <text x="${midX}" y="120" text-anchor="middle" font-family="${FONT_STACK}" font-size="14" letter-spacing="4" fill="${PALETTE.accent}">// SECURITY_PROFILE</text>
+  <text x="${midX}" y="175" text-anchor="middle" font-family="${FONT_STACK}" font-size="48" font-weight="700" letter-spacing="6" fill="${PALETTE.textPrimary}">MIGUEL GONZÁLEZ</text>
+  <line x1="${midX - 220}" y1="200" x2="${midX + 220}" y2="200" stroke="${PALETTE.accent}" stroke-width="1" />
+  ${rulerTicks(midX - 220, midX + 220, 200, 6, PALETTE.accent)}
+  <text x="40" y="${height - 20}" font-family="${FONT_STACK}" font-size="11" fill="${PALETTE.textSecondary}">X:0 Y:0</text>
+  <text x="${width - 40}" y="${height - 20}" text-anchor="end" font-family="${FONT_STACK}" font-size="11" fill="${PALETTE.textSecondary}">${width}x${height}</text>
+</svg>`;
+  writeFileSync(assetPath('banner.svg'), svg);
+}
+
 function divider(label, slug) {
   const width = 1200;
   const height = 60;
@@ -78,6 +97,8 @@ function divider(label, slug) {
   writeFileSync(assetPath(`divider-${slug}.svg`), svg);
 }
 
+banner();
+
 divider('ABOUT', 'about');
 divider('STACK & COMPETENCIES', 'stack');
 divider('FEATURED PROJECTS', 'projects');
@@ -85,6 +106,6 @@ divider('EXPERIENCE', 'experience');
 divider('CERTIFICATIONS', 'certifications');
 divider('LIVE STATS', 'stats');
 
-console.log('Dividers generated.');
+console.log('Banner and dividers generated.');
 
 export { PALETTE, FONT_STACK, assetPath, gridBackground, cornerBrackets, rulerTicks, divider };
