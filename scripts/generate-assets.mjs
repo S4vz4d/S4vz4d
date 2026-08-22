@@ -75,6 +75,22 @@ function banner() {
   writeFileSync(assetPath('banner.svg'), svg);
 }
 
+function footer() {
+  const width = 1200;
+  const height = 90;
+  const boxX = width - 260;
+
+  const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="${width}" y2="10" stroke="${PALETTE.grid}" stroke-width="1" />
+  <rect x="${boxX}" y="24" width="220" height="54" fill="none" stroke="${PALETTE.accent}" stroke-width="1" />
+  <line x1="${boxX}" y1="42" x2="${boxX + 220}" y2="42" stroke="${PALETTE.accent}" stroke-width="1" />
+  <text x="${boxX + 10}" y="37" font-family="${FONT_STACK}" font-size="11" fill="${PALETTE.textSecondary}">DRAWN BY: S4VZ4D</text>
+  <text x="${boxX + 10}" y="55" font-family="${FONT_STACK}" font-size="11" fill="${PALETTE.textSecondary}">SCALE: 1:1</text>
+  <text x="${boxX + 10}" y="70" font-family="${FONT_STACK}" font-size="11" fill="${PALETTE.textSecondary}">REV: 2026.08</text>
+</svg>`;
+  writeFileSync(assetPath('footer.svg'), svg);
+}
+
 function divider(label, slug) {
   const width = 1200;
   const height = 60;
@@ -98,6 +114,7 @@ function divider(label, slug) {
 }
 
 banner();
+footer();
 
 divider('ABOUT', 'about');
 divider('STACK & COMPETENCIES', 'stack');
@@ -106,6 +123,6 @@ divider('EXPERIENCE', 'experience');
 divider('CERTIFICATIONS', 'certifications');
 divider('LIVE STATS', 'stats');
 
-console.log('Banner and dividers generated.');
+console.log('Banner, footer, and dividers generated.');
 
 export { PALETTE, FONT_STACK, assetPath, gridBackground, cornerBrackets, rulerTicks, divider };
