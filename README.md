@@ -111,8 +111,8 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 
 <div align="center">
 
-<img src="https://github-readme-stats-tawny-three-13.vercel.app/api?username=S4vz4d&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=9A9A9A&icon_color=E5E5E5" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats-tawny-three-13.vercel.app/api/top-langs/?username=S4vz4d&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=9A9A9A" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-tawny-three-13.vercel.app/api?username=S4vz4d&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=9A9A9A&icon_color=E5E5E5&cb=2" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-tawny-three-13.vercel.app/api/top-langs/?username=S4vz4d&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=9A9A9A&cb=2" alt="Top Languages" height="165" />
 
 <img src="https://github-readme-streak-stats-xi-rust.vercel.app/?user=S4vz4d&theme=transparent&hide_border=true&background=00000000&stroke=2E2E2E&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5&sideLabels=9A9A9A&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A" alt="GitHub Streak" />
 
