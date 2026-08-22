@@ -104,3 +104,24 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 | Jr Penetration Tester | TryHackMe | 2025 |
 | NSE 3 Network Security | Fortinet | 2023 |
 | NSE 1–2 | Fortinet | 2022 |
+
+<img src="assets/divider-stats.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=S4vz4d&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=4FD1E8&text_color=8AA9C4&icon_color=4FD1E8" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4vz4d&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=4FD1E8&text_color=8AA9C4" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=S4vz4d&theme=transparent&hide_border=true&background=00000000&stroke=1B3A5C&ring=4FD1E8&fire=4FD1E8&currStreakLabel=4FD1E8&sideLabels=8AA9C4&currStreakNum=E8F1F8&sideNums=E8F1F8&dates=8AA9C4" alt="GitHub Streak" />
+
+</div>
+
+<img src="assets/footer.svg" width="100%" alt="" />
+
+<div align="center">
+
+<sub>Madrid, Spain · Remote</sub>
+<br />
+<img src="https://komarev.com/ghpvc/?username=S4vz4d&style=flat-square&color=4FD1E8&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
