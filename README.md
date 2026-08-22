@@ -79,3 +79,18 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 </td>
 </tr>
 </table>
+
+<img src="assets/divider-experience.svg" width="100%" alt="" />
+
+> `2022.10 → 2024.04` **NTT** · Technical Services Engineer · Spain
+> - Designed, implemented, and migrated end-to-end security architectures (Fortinet, Check Point, Palo Alto, Nozomi) for Spain's largest corporations and government departments
+> - Cut mean time to remediation by 35% across 12+ enterprise clients — led vulnerability assessments, automated remediation with Python/Bash
+> - Cut firewall misconfiguration incidents by 40% establishing hardening standards across multi-vendor environments
+> - Accelerated security project delivery by 25% owning design, implementation, and client handover end-to-end
+
+> `2022.05 → 2022.10` **Westcon-Comstor** · Support Engineer · Spain
+> - Decreased incident resolution time by 30% overhauling security incident management and automated monitoring alerts
+> - Strengthened security posture for 5+ clients hardening enterprise firewalls (Fortinet, Check Point, Palo Alto)
+
+> `2021.04 → 2022.05` **Westcon-Comstor** · Support Center Operator Trainee · Spain
+> - Contributed to a 20% reduction in open SOC tickets — incident resolution, network administration, vulnerability assessment
