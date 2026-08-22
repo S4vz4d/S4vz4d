@@ -56,3 +56,26 @@ Currently focused on leading offensive security against AI/ML systems while feed
 ![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-0A1128?style=flat-square)
 ![Agentic Pipelines](https://img.shields.io/badge/-Agentic%20Pipelines-0A1128?style=flat-square)
 ![MCP Security](https://img.shields.io/badge/-MCP%20Security-0A1128?style=flat-square)
+
+<img src="assets/divider-projects.svg" width="100%" alt="" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Verax](https://veraxai.xyz)
+Shadow-AI discovery & governance platform. Ingests FortiGate logs to find AI tools in use, scores vendor data-handling risk, maps Entra ID OAuth grants, exports to SIEM (CEF/OCSF/syslog), and generates AI risk-assessment reports.
+
+`Python` · `FastAPI` · `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [Mentra](https://mentra.cc)
+Chrome extension shipped from zero to production in under 3 months — 335 downloads, 34 active users. JWT auth, SSE streaming, Stripe billing end-to-end.
+
+`Next.js 15` · `Supabase` · `Groq / LLaMA 3.1` · `Stripe`
+
+</td>
+</tr>
+</table>
