@@ -4,11 +4,11 @@ import { writeFileSync, mkdirSync } from 'node:fs';
 mkdirSync(new URL('../assets/', import.meta.url), { recursive: true });
 
 const PALETTE = {
-  bg: '#0A1128',
-  grid: '#1B3A5C',
-  accent: '#4FD1E8',
-  textSecondary: '#8AA9C4',
-  textPrimary: '#E8F1F8',
+  bg: '#0D0D0D',
+  grid: '#2E2E2E',
+  accent: '#E5E5E5',
+  textSecondary: '#9A9A9A',
+  textPrimary: '#FFFFFF',
 };
 
 const FONT_STACK = "'JetBrains Mono', 'Fira Code', 'Courier New', monospace";

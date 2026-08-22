@@ -2,11 +2,11 @@
 
 <img src="assets/banner.svg" width="100%" alt="Miguel González — Security Profile" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=4FD1E8&center=true&vCenter=true&width=700&lines=AI+Red+Teamer;Red+Teamer;Cybersecurity+Engineer+%26+Researcher" alt="AI Red Teamer · Red Teamer · Cybersecurity Engineer & Researcher" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=E5E5E5&center=true&vCenter=true&width=700&lines=AI+Red+Teamer;Red+Teamer;Cybersecurity+Engineer+%26+Researcher" alt="AI Red Teamer · Red Teamer · Cybersecurity Engineer & Researcher" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A1128?style=flat-square&logo=linkedin&logoColor=4FD1E8)](https://linkedin.com/in/miguel-gonzalez-gonzalez)
-[![Email](https://img.shields.io/badge/-Email-0A1128?style=flat-square&logo=gmail&logoColor=4FD1E8)](mailto:s4vz4d@gmail.com)
-![Location](https://img.shields.io/badge/-Madrid%2C%20Spain%20%7C%20Remote-0A1128?style=flat-square&logo=googlemaps&logoColor=4FD1E8)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=E5E5E5)](https://linkedin.com/in/miguel-gonzalez-gonzalez)
+[![Email](https://img.shields.io/badge/-Email-0D0D0D?style=flat-square&logo=gmail&logoColor=E5E5E5)](mailto:s4vz4d@gmail.com)
+![Location](https://img.shields.io/badge/-Madrid%2C%20Spain%20%7C%20Remote-0D0D0D?style=flat-square&logo=googlemaps&logoColor=E5E5E5)
 
 </div>
 
@@ -19,43 +19,43 @@ Currently focused on leading offensive security against AI/ML systems while feed
 <img src="assets/divider-stack.svg" width="100%" alt="" />
 
 **Offensive Security**
-![AI Red Teaming](https://img.shields.io/badge/-AI%20Red%20Teaming-0A1128?style=flat-square)
-![Prompt Injection Testing](https://img.shields.io/badge/-Prompt%20Injection%20Testing-0A1128?style=flat-square)
-![Pentest](https://img.shields.io/badge/-Pentest-0A1128?style=flat-square)
-![Red Teaming](https://img.shields.io/badge/-Red%20Teaming-0A1128?style=flat-square)
-![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-0A1128?style=flat-square)
-![OSINT](https://img.shields.io/badge/-OSINT-0A1128?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-0A1128?style=flat-square)
+![AI Red Teaming](https://img.shields.io/badge/-AI%20Red%20Teaming-0D0D0D?style=flat-square)
+![Prompt Injection Testing](https://img.shields.io/badge/-Prompt%20Injection%20Testing-0D0D0D?style=flat-square)
+![Pentest](https://img.shields.io/badge/-Pentest-0D0D0D?style=flat-square)
+![Red Teaming](https://img.shields.io/badge/-Red%20Teaming-0D0D0D?style=flat-square)
+![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-0D0D0D?style=flat-square)
+![OSINT](https://img.shields.io/badge/-OSINT-0D0D0D?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-0D0D0D?style=flat-square)
 
 **Defensive Security**
-![Firewall Architecture](https://img.shields.io/badge/-Firewall%20Architecture-0A1128?style=flat-square)
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-0A1128?style=flat-square)
-![SIEM](https://img.shields.io/badge/-SIEM-0A1128?style=flat-square)
-![SOC](https://img.shields.io/badge/-SOC-0A1128?style=flat-square)
-![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-0A1128?style=flat-square)
+![Firewall Architecture](https://img.shields.io/badge/-Firewall%20Architecture-0D0D0D?style=flat-square)
+![Incident Response](https://img.shields.io/badge/-Incident%20Response-0D0D0D?style=flat-square)
+![SIEM](https://img.shields.io/badge/-SIEM-0D0D0D?style=flat-square)
+![SOC](https://img.shields.io/badge/-SOC-0D0D0D?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-0D0D0D?style=flat-square)
 
 **Platforms**
-![Fortinet](https://img.shields.io/badge/-Fortinet-0A1128?style=flat-square)
-![Check Point](https://img.shields.io/badge/-Check%20Point-0A1128?style=flat-square)
-![Palo Alto](https://img.shields.io/badge/-Palo%20Alto-0A1128?style=flat-square)
-![Nozomi](https://img.shields.io/badge/-Nozomi-0A1128?style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-0A1128?style=flat-square&logo=amazonaws&logoColor=4FD1E8)
-![Azure](https://img.shields.io/badge/-Azure-0A1128?style=flat-square&logo=microsoftazure&logoColor=4FD1E8)
+![Fortinet](https://img.shields.io/badge/-Fortinet-0D0D0D?style=flat-square)
+![Check Point](https://img.shields.io/badge/-Check%20Point-0D0D0D?style=flat-square)
+![Palo Alto](https://img.shields.io/badge/-Palo%20Alto-0D0D0D?style=flat-square)
+![Nozomi](https://img.shields.io/badge/-Nozomi-0D0D0D?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-0D0D0D?style=flat-square&logo=amazonaws&logoColor=E5E5E5)
+![Azure](https://img.shields.io/badge/-Azure-0D0D0D?style=flat-square&logo=microsoftazure&logoColor=E5E5E5)
 
 **Development**
-![Python](https://img.shields.io/badge/-Python-0A1128?style=flat-square&logo=python&logoColor=4FD1E8)
-![Bash](https://img.shields.io/badge/-Bash-0A1128?style=flat-square&logo=gnubash&logoColor=4FD1E8)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A1128?style=flat-square&logo=javascript&logoColor=4FD1E8)
-![C](https://img.shields.io/badge/-C-0A1128?style=flat-square&logo=c&logoColor=4FD1E8)
-![REST](https://img.shields.io/badge/-REST-0A1128?style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT-0A1128?style=flat-square&logo=jsonwebtokens&logoColor=4FD1E8)
-![OAuth](https://img.shields.io/badge/-OAuth-0A1128?style=flat-square)
-![CVSS](https://img.shields.io/badge/-CVSS-0A1128?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-0D0D0D?style=flat-square&logo=python&logoColor=E5E5E5)
+![Bash](https://img.shields.io/badge/-Bash-0D0D0D?style=flat-square&logo=gnubash&logoColor=E5E5E5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=E5E5E5)
+![C](https://img.shields.io/badge/-C-0D0D0D?style=flat-square&logo=c&logoColor=E5E5E5)
+![REST](https://img.shields.io/badge/-REST-0D0D0D?style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-0D0D0D?style=flat-square&logo=jsonwebtokens&logoColor=E5E5E5)
+![OAuth](https://img.shields.io/badge/-OAuth-0D0D0D?style=flat-square)
+![CVSS](https://img.shields.io/badge/-CVSS-0D0D0D?style=flat-square)
 
 **AI & Automation**
-![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-0A1128?style=flat-square)
-![Agentic Pipelines](https://img.shields.io/badge/-Agentic%20Pipelines-0A1128?style=flat-square)
-![MCP Security](https://img.shields.io/badge/-MCP%20Security-0A1128?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-0D0D0D?style=flat-square)
+![Agentic Pipelines](https://img.shields.io/badge/-Agentic%20Pipelines-0D0D0D?style=flat-square)
+![MCP Security](https://img.shields.io/badge/-MCP%20Security-0D0D0D?style=flat-square)
 
 <img src="assets/divider-projects.svg" width="100%" alt="" />
 
@@ -64,7 +64,7 @@ Currently focused on leading offensive security against AI/ML systems while feed
 <td width="50%" valign="top">
 
 ### [Verax](https://veraxai.xyz)
-Shadow-AI discovery & governance platform. Ingests FortiGate logs to find AI tools in use, scores vendor data-handling risk, maps Entra ID OAuth grants, exports to SIEM (CEF/OCSF/syslog), and generates AI risk-assessment reports.
+Shadow-AI discovery & governance platform. Ingests logs across your security stack to find AI tools in use, scores vendor data-handling risk, maps Entra ID OAuth grants, exports to SIEM (CEF/OCSF/syslog), and generates AI risk-assessment reports.
 
 `Python` · `FastAPI` · `Next.js`
 
@@ -100,6 +100,8 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 | Certification | Issuer | Year |
 |---|---|---|
 | AI Red Teamer | Hack The Box | 2026 |
+| Claude 101 | Anthropic | 2026 |
+| AI Fluency: Framework and Foundations | Anthropic | 2026 |
 | Red Teaming Path | TryHackMe | 2025 |
 | Jr Penetration Tester | TryHackMe | 2025 |
 | NSE 3 Network Security | Fortinet | 2023 |
@@ -109,10 +111,10 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=S4vz4d&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=4FD1E8&text_color=8AA9C4&icon_color=4FD1E8" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4vz4d&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=4FD1E8&text_color=8AA9C4" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-tawny-three-13.vercel.app/api?username=S4vz4d&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=9A9A9A&icon_color=E5E5E5" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-tawny-three-13.vercel.app/api/top-langs/?username=S4vz4d&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=9A9A9A" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com/?user=S4vz4d&theme=transparent&hide_border=true&background=00000000&stroke=1B3A5C&ring=4FD1E8&fire=4FD1E8&currStreakLabel=4FD1E8&sideLabels=8AA9C4&currStreakNum=E8F1F8&sideNums=E8F1F8&dates=8AA9C4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-xi-rust.vercel.app/?user=S4vz4d&theme=transparent&hide_border=true&background=00000000&stroke=2E2E2E&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5&sideLabels=9A9A9A&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A" alt="GitHub Streak" />
 
 </div>
 
@@ -122,6 +124,6 @@ Chrome extension shipped from zero to production in under 3 months — 335 downl
 
 <sub>Madrid, Spain · Remote</sub>
 <br />
-<img src="https://komarev.com/ghpvc/?username=S4vz4d&style=flat-square&color=4FD1E8&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=S4vz4d&style=flat-square&color=E5E5E5&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>

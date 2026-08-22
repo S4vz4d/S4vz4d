@@ -1,8 +1,8 @@
 <svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="1200" y2="10" stroke="#1B3A5C" stroke-width="1" />
-  <rect x="940" y="24" width="220" height="54" fill="none" stroke="#4FD1E8" stroke-width="1" />
-  <line x1="940" y1="42" x2="1160" y2="42" stroke="#4FD1E8" stroke-width="1" />
-  <text x="950" y="37" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#8AA9C4">DRAWN BY: S4VZ4D</text>
-  <text x="950" y="55" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#8AA9C4">SCALE: 1:1</text>
-  <text x="950" y="70" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#8AA9C4">REV: 2026.08</text>
+  <line x1="0" y1="10" x2="1200" y2="10" stroke="#2E2E2E" stroke-width="1" />
+  <rect x="940" y="24" width="220" height="54" fill="none" stroke="#E5E5E5" stroke-width="1" />
+  <line x1="940" y1="42" x2="1160" y2="42" stroke="#E5E5E5" stroke-width="1" />
+  <text x="950" y="37" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#9A9A9A">DRAWN BY: S4VZ4D</text>
+  <text x="950" y="55" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#9A9A9A">SCALE: 1:1</text>
+  <text x="950" y="70" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#9A9A9A">REV: 2026.08</text>
 </svg>
